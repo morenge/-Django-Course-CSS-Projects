@@ -1,0 +1,33 @@
+h2{
+    font-family: 'Acme', sans-serif;
+    text-align:center;
+    margin: 50px;
+    padding: 20px;
+
+}
+
+.art{
+    margin:auto;
+}
+
+td{
+    height:500px;
+    padding:100px;
+    border:6px solid white;
+}
+
+#one{
+    background-color:#E76B74;
+}
+#two{
+    background-color: #4EAA57;
+}
+#three{
+    background-color:rgb(99, 124, 31);
+}
+#four{
+    background-color:rgb(6, 83, 64);
+}
+#five{
+    background-color:rgb(9, 50, 104);
+}
